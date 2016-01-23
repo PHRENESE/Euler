@@ -19,4 +19,5 @@ function sumAll(num){
 }
 
 sumAll(1000);
+// -> 233168
 ```
